@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is from Develop project</h2>
+<h2>Developed Devops project</h2>
 </body>
 </html>
